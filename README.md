@@ -9,7 +9,7 @@ I'm Landon,
 - 💬 Ask me about Shopify Store Setups
 - 📫 How to reach me: https://www.landondoroski.com/
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Why, hello there! </h1>
+<h1><img src="https://slackmojis.com/emojis/4237-blob-grin/download" width="30"/> Why, hello there! </h1>
 
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
