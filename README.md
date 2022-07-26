@@ -1,4 +1,4 @@
-### Hi! 👋
+### Why, hello there! 👋
 
 
 - 🔭 I’m currently working on Shopify Projects
