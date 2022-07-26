@@ -1,5 +1,6 @@
 ### Why, hello there! 👋
 
+<h1><img src="https://slackmojis.com/emojis/48135-sunset/download" width="30"/> Why, hello there! <img src="https://slackmojis.com/emojis/23021-sun/download" </h1>
 Welcome to my page!
 I'm Landon, 
 
@@ -8,8 +9,7 @@ I'm Landon,
 - 💬 Ask me about Shopify Store Setups
 - 📫 How to reach me: https://www.landondoroski.com/
 
-
-<h1><img src="https://slackmojis.com/emojis/48135-sunset/download" width="30"/> Why, hello there! <img src="https://slackmojis.com/emojis/23021-sun/download" </h1>
+<h1><img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://slackmojis.com/emojis/48135-sunset/download)" width="30"/> Hey! Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
