@@ -19,7 +19,7 @@ I'm Landon,
 </p>
 
 <h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
-<p><img width="200" src="https://uploads-ssl.webflow.com/628d2916e67516c42c6420a2/62a8e08ab8ad531f7481536b_Screenshot%20black%20shirt%20girl%20-phone_pixel_quite_black_portrait-p-1600.png" /> <img width="200" src="https://uploads-ssl.webflow.com/628d2916e67516c42c6420a2/62a8e08ab8ad531f7481536b_Screenshot%20black%20shirt%20girl%20-phone_pixel_quite_black_portrait-p-1600.png" /> <img width="200" src="https://uploads-ssl.webflow.com/628d2916e67516c42c6420a2/62a8e09fbdfebe1daa1a8a39_Screenshot%20galaxy%20generator%20-phone_pixel_quite_black_portrait-p-1600.png" /></p>
+<p><img width="200" src="https://uploads-ssl.webflow.com/628d2916e67516c42c6420a2/62a8e08ab8ad531f7481536b_Screenshot%20black%20shirt%20girl%20-phone_pixel_quite_black_portrait-p-1600.png" /> <img width="200" src="https://uploads-ssl.webflow.com/628d2916e67516c42c6420a2/62a241744f4781dc3a37de90_Resizing-4%20working-p-1600.jpeg" /> <img width="200" src="https://uploads-ssl.webflow.com/628d2916e67516c42c6420a2/62a8e09fbdfebe1daa1a8a39_Screenshot%20galaxy%20generator%20-phone_pixel_quite_black_portrait-p-1600.png" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="![Uploading image.png…]()
 "/> @visitstockholm!</a><br/>Currently, the weather is: <b> 21°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>04:19</b> and sets at <b>21:29</b>.</p>
 <h3>Where to find me</h3>
