@@ -1,6 +1,6 @@
 ### Why, hello there! 👋
 
-<h1><img src="https://slackmojis.com/emojis/48135-sunset/download" width="30"/> Why, hello there! </h1>
+<h1><img src="https://slackmojis.com/emojis/4237-blob-grin/download" width="30"/> Why, hello there! </h1>
 Welcome to my page!
 I'm Landon, 
 
