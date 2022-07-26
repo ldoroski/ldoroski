@@ -20,11 +20,7 @@ I'm Landon,
 
 <h3>Recent Shopify Project</h3>
 <p><img width="200" src="https://uploads-ssl.webflow.com/628d2916e67516c42c6420a2/62a8e08ab8ad531f7481536b_Screenshot%20black%20shirt%20girl%20-phone_pixel_quite_black_portrait-p-1600.png" /> <img width="200" src="https://uploads-ssl.webflow.com/628d2916e67516c42c6420a2/62a8e2f092a2385db92029d3_Screenshot%20dianamic%20browser%20cut%20shot%20_ipad_spacegrey_landscape-p-2600.png" /> <img width="200" src="https://uploads-ssl.webflow.com/628d2916e67516c42c6420a2/62a8e09fbdfebe1daa1a8a39_Screenshot%20galaxy%20generator%20-phone_pixel_quite_black_portrait-p-1600.png" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="![Uploading image.png…]()
-"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 21°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>04:19</b> and sets at <b>21:29</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 26 July, 17:07 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
