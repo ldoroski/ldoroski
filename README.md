@@ -1,5 +1,7 @@
 ### Why, hello there! 👋
 
+Welcome to my page!
+I'm Landon, 
 
 - 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning JavaScript
