@@ -1,5 +1,3 @@
-### Why, hello there! 👋
-
 <h1><img src="https://slackmojis.com/emojis/4237-blob-grin/download" width="30"/> Why, hello there! </h1>
 Welcome to my page!
 I'm Landon, 
@@ -9,7 +7,7 @@ I'm Landon,
 - 💬 Ask me about Shopify Store Setups
 - 📫 How to reach me: https://www.landondoroski.com/
 
-
+<h3>My Expertise</h3>
 
 <p>Welcome! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>My Expertise</h3>
